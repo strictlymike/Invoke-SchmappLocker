@@ -3,8 +3,7 @@ function Invoke-SchmappLocker {
 .SYNOPSIS
 
 This script exploits KB2532445 via the CreateRestrictedToken function and
-corresponding SANDBOX_INERT flag. Or does it? I haven't had a chance to test
-it.
+corresponding SANDBOX_INERT flag. Tested on Win7 with AppLocker enabled.
 
 .DESCRIPTION
 
