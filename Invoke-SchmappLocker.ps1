@@ -20,8 +20,9 @@ Execute the command interpreter
 
 .LINK
 
-Blog: http://baileysoriginalirishtech.blogspot.com/
+Blog: http://baileysoriginalirishtech.blogspot.com/2015/06/applocker-schmapplocker.html
 Github repo: https://github.com/strictlymike/Invoke-SchmappLocker
+Hotfix: https://support.microsoft.com/en-us/kb/2532445
 
 Blog on PowerShell P/Invoke: http://blogs.technet.com/b/heyscriptingguy/archive/2013/10/19/weekend-scripter-use-powershell-and-pinvoke-to-remove-stubborn-files.aspx
 
